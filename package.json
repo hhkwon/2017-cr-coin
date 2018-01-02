@@ -1,0 +1,21 @@
+{
+  "name": "cr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "express": "^4.16.2",
+    "koa": "^2.4.1",
+    "koa-session": "^5.5.1",
+    "lodash": "^4.17.4",
+    "puppeteer": "^0.13.0",
+    "request": "^2.83.0",
+    "spooky": "^0.2.5"
+  }
+}
